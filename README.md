@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A compact, quick, agile URL probe** — read URLs from **STDIN**, check them concurrently with retry/backoff, and write **good** and **bad** lists to files.
+**A speedy URL probe** — read URLs from **STDIN**, check them concurrently with retry/backoff, and write **good** and **bad** lists to files.
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python\&logoColor=white)](#-requirements)
 [![Requests](https://img.shields.io/badge/HTTP-requests-000000.svg)](https://docs.python-requests.org/)
